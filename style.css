@@ -1,0 +1,457 @@
+.upnav{
+    position: fixed;
+    margin: -15px 10px 20px -7px; 
+    display: flex; 
+    background-color: white; 
+    width: 100%;
+}
+
+.nav1 .navimage img{
+    height: 60px;
+    width: 70px ;
+    padding: 20px 20px 10px 30px;
+}
+
+.nav2{
+    margin: 10px;
+    padding-top: 20px;
+}
+
+.nav2 a{
+    padding: 20px;
+}
+
+.nav3{
+    float: right;
+    margin: 10px;
+    padding-top: 0px;
+    display: flex;
+}
+
+.nav3 button{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 10px;
+}
+
+.nav3 a{
+    padding: 10px;
+    margin: 10px;
+}
+
+.upnav .nav3 #goup{
+    margin-top: -10px;
+}
+
+.blue{
+    background-color: blue;
+    width: 100%;
+    display: flex;
+    padding-top: 70px;
+    height: 80px;
+    margin-top: 2px;
+}
+
+.blue .blue1 .blueimg{
+    height: 50px;
+    padding:30px 0px 20px 250px;
+}
+
+.blue2{
+    padding: 30px;
+    padding-left: 40px;
+}
+
+.blue2 p a{
+    color: white;
+}
+
+.image1{
+    border-radius: 70%;
+    height: 600px;
+    width: 700px;
+    padding-left: 600px;
+    margin-top: -430px;
+}
+
+.image2{
+    margin-top: -600px;
+    margin-left: 250px;
+    height: 500px;
+    width: 1900px;
+} 
+
+button{
+    align-items: center;
+    width: 150px;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    color: rgb(13, 130, 207);
+}
+
+h3{
+    color: rgb(13, 130, 207);
+}
+
+h5{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+h6{
+    color: rgb(3, 3, 107); 
+    font-size: 20px;
+    padding-top: -20px;
+}
+
+p{
+    color: grey;
+}
+
+.div1{
+    border-bottom: 20px;
+    background-image: url("../field1.webp") ;
+    padding-bottom: -200px;
+}
+
+.div1_1{
+    width: 50%;
+    padding-left: 100px;
+}
+
+.div1_2{
+    width: 50%;
+}
+
+.head1{
+    padding-top: 100px;
+    font-size: 50px;
+}
+
+.para1{
+    font-size: 20px;
+}
+
+.btn1{
+    background-color: green;
+    border: none;
+    color: white;
+}
+.btn2{
+    background-color: white;
+    border-color: rgb(12, 131, 243);
+    color:rgb(12, 131, 243) ;
+}
+
+.btn3{
+    background-color: rgb(13, 130, 207);
+    border: none;
+    margin-left: 550px;
+    color: white;
+}
+
+.second{
+     margin-top: -200px;
+}
+
+.second_1 h1 {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.div2{
+    display: flex;
+} 
+
+.head2{
+    text-align: center;
+    font-size: 40px;
+    margin-top: -10px;
+}
+
+.image21{
+    height: 250px;
+    width: 350px;
+    border-radius: 30px;
+    padding: 20px 40px 0px 60px;
+    margin-bottom: -40px;
+}
+
+.second .div2 img{
+    border-radius: 30px;
+}
+
+.div2 .anchor2  {
+    text-decoration: none;
+    margin-top: -10px;
+}
+
+.div2crm{
+    margin-bottom: -20px;
+    padding:0px 0px 0px 60px;   
+}
+
+.anchor2 h3{
+    padding-left: 60px;
+}
+
+.img3{
+  height: 200px;
+  width: 250px;
+}
+
+.field1{
+    width: 100%;
+    height: 300px;
+    /* margin-left: -1000px; */
+}
+
+#learn{
+    display: flex;
+}
+
+.content{
+    display: flex;
+}
+
+.content_2_1{
+    display: flex;
+}
+
+.content_2_2{
+    display: flex;
+}
+
+.content_2_3{
+    display: flex;
+}
+
+.needhelp{
+    background-color: blue;
+    margin-left: 950px;
+    border-radius: 10px;
+}
+
+.needh1{
+    color: white;
+    padding-left: 120px;
+
+}
+
+.needbtn{
+    border: none;
+    width: 100px;
+}
+
+.needbtn1{
+    border: none;
+    color: white;
+    background-color: blue;
+    width: 120px;
+}
+
+.trail{
+    text-align: center;
+}
+
+.shadow{
+    display: flex; 
+}
+
+.shadowdiv{
+    box-shadow: 3px 2px 3px rgb(0,0,0,0.4);
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.shadow .shadowdiv{
+    margin: 50px;
+}
+
+.shadow img {
+    width: 100px;
+    height: 100px;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.shadow .shadowdiv h6  {
+    text-align: center;
+    margin-top: -5px;
+    font-size: medium;
+}
+
+.shadow .shadowdiv  a{
+    text-align: center;
+    font-size: 30px ;
+}
+.shadow .shadowdiv p{
+    text-align: center;
+}
+
+.post-shadow{
+    padding-left: 600px
+}
+
+.post-shadow button{
+    border: none;
+    background-color: blue;
+    font-weight: bold;
+    color: white;
+}
+
+.ojiji{
+    display: flex;
+}
+
+.ojijidiv{
+    box-shadow: 3px 2px 3px rgb(0,0,0,0.4);
+    width: 350px;
+    height: 150px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.ojiji .ojijidiv{
+ margin: 50px;
+}
+
+.ojiji .ojijidiv a{
+    text-align: center;
+    font-size: 30px;
+}
+
+.ojiji .ojijidiv h6{
+    text-align: center;
+    margin-top: -5px;
+    font-size: medium;
+}
+
+.discover{
+    display: flex;
+    padding-top: 150px;
+}
+
+.discover img{
+    width: 700px;
+}
+
+.discover2{
+    padding: 170px 20px 0px 40px;
+}
+
+.discover .discover2 button{
+    border: none;
+    color: white;
+    background-color: blue;
+}
+
+.software{
+    display: flex;
+    padding-top: 150px;
+}
+
+.software1{
+    padding: 170px 20px 0px 40px;
+}
+
+.software .software1 button{
+    border: none;
+    color: white;
+    background-color: green;
+}
+
+.timely{
+    background-color: rgba(42, 38, 250, 0.281);
+    border-radius: 20px;
+    height: 300px;
+    margin: 20px;
+}
+
+.timely h1{
+    text-align: center;
+    margin-top: -100px;
+}
+
+.timely button{
+    border: none;
+    color: white;
+    background-color: blue;
+    margin-left: 45%;
+}
+
+.timely .img1{
+    height: 300px;
+    width: 300px;
+    margin-top: -100px;
+}
+
+.timely .img2{
+    height:300px;
+    width: 300px;
+    margin-top: -80px;
+    float: right;
+}
+
+.popular{
+    display: flex;
+    margin-top: 150px;
+}
+
+.popular h6 a{
+    font-size: 13px;
+}
+
+.popular1{
+    margin-left: 100px;
+}
+
+.popular1 a i{
+    width: 60px;
+    height: 50px;
+    padding-bottom: 20px;
+}
+
+.popular2{
+    margin-left: 100px;
+}
+
+.padding3{
+    margin-left: 600px ;
+    padding-left: 20px;
+}
+
+.padding4{
+    margin-left: 400px;
+}
+
+.footer{
+    background-color: blue;
+    display: flex;
+}
+
+.footer button{
+    color: white;
+    background-color: blue;
+    border-color: white;
+}
+
+.footer .firstpara{
+    color: white;
+    width: 1100px;
+}
+
+.footer .footer2 a{
+    color: darkblue;
+}
